@@ -4,6 +4,7 @@
   "description": "",
   "main": "serwer.js",
   "scripts": {
+    "install": "npm install express passport passport-google-oauth pug",
     "start": "node server.js"
   },
   "keywords": [],
